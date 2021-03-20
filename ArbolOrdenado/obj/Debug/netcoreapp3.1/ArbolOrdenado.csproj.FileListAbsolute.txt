@@ -1,0 +1,13 @@
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\bin\Debug\netcoreapp3.1\ArbolOrdenado.exe
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\bin\Debug\netcoreapp3.1\ArbolOrdenado.deps.json
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\bin\Debug\netcoreapp3.1\ArbolOrdenado.runtimeconfig.json
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\bin\Debug\netcoreapp3.1\ArbolOrdenado.runtimeconfig.dev.json
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\bin\Debug\netcoreapp3.1\ArbolOrdenado.dll
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\bin\Debug\netcoreapp3.1\ArbolOrdenado.pdb
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.AssemblyInfo.cs
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.dll
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.pdb
+C:\Users\josue\source\repos\ArbolOrdenado\ArbolOrdenado\obj\Debug\netcoreapp3.1\ArbolOrdenado.genruntimeconfig.cache
